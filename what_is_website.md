@@ -21,6 +21,7 @@ Webサイトには2種類のサイトがある。
 1. flask (Python)
 2. Ruby on Rails (Ruby)
 3. CakePHP (PHP)
+...etc
 
 #### Webの2つのアーキテクチャ
 1. Web三層システム (インフラ、OSレイヤ)
